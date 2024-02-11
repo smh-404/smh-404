@@ -1,4 +1,4 @@
 - Hi!
-- I’ve been working in cyber security for severa years and have strived to automate the majority of my tasks using python.
+- I’ve been working in cyber security for several years and have strived to automate the majority of my tasks using python.
 - I'll be sharing some of the tools I've created and some of the forks of existing tools that I've been using and modified.
 - Let's help each other secure the (cyber) world!
